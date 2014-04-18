@@ -1,0 +1,15 @@
+name: NestNames
+main: me.chipf0rk.nestnames.NestNames
+version: 0.2
+depend: [Vault]
+
+description:
+  Supplies chat/list name formatting for all nest dawgs.
+
+commands:
+  realname:
+    description: Sets your real name to be displayed instead of your Minecraft username.
+    usage: "Usage: /realname §6<name>"
+  dawgs:
+    description: Prints out a friendly user list of all online dawgs
+    usage: "/dawgs"

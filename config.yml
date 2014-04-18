@@ -1,0 +1,9 @@
+groups:
+  administrators:
+    color: "DARK_RED"
+  moderators: 
+    color: "BLUE"
+  donators: 
+    color: "DARK_GREEN"
+  default: 
+    color: "GOLD"
